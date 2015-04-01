@@ -118,7 +118,7 @@
             this.pictureBox1.Image = global::ProbabilidadesTeg.Properties.Resources.na13fo01;
             this.pictureBox1.Location = new System.Drawing.Point(6, 8);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(291, 253);
+            this.pictureBox1.Size = new System.Drawing.Size(303, 253);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
@@ -127,7 +127,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(302, 262);
+            this.ClientSize = new System.Drawing.Size(309, 262);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblProbabilidad);
